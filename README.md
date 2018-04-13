@@ -95,3 +95,8 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 - [Dataya Nolja](https://www.slideshare.net/KennethCeyer/ss-80764533)
 - [Pycon 2017](https://www.slideshare.net/KennethCeyer/dealing-with-python-reactively-pycon-korea-2017)
 - [XECon 2016](https://www.slideshare.net/KennethCeyer/angularjs-2-version-1-and-reactjs-69546904)
+
+## Additional
+
+- [PIGNOSE writer](https://www.facebook.com/PIGNOSE-1735920843294891/)
+- Writing a book (golang)

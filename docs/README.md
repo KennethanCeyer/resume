@@ -51,7 +51,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 
 ### Campaign Intelligence
 
-- [https://www.c-intelligence.com](https://www.c-intelligence.com)
+- [https://www.c-intelligence.com/main](https://www.c-intelligence.com/main)
 - A BI solution that requires pivoting, aggregation, and visualization of the required data in the format requested by the UI, with approximately 100 million data sets per customer.
 - Distributed processing for interactive queries and query builder development that changes depending on the database type are the main features.
 - Participated in major development from initial team building to launching.
@@ -85,7 +85,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 - [profile site](https://www.pigno.se)
 - [linked in](https://www.linkedin.com/in/kenneth-ceyer-768419133/)
 - [philosophy](https://www.pigno.se/pignose-principle.html)
-- [recent project](https://www.c-intelligence.com)
+- [recent project](https://www.c-intelligence.com/main)
 - [github](https://www.github.com/KennethanCeyer)
 - [blog](https://blog.pigno.se)
 

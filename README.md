@@ -76,9 +76,9 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 
 ## Certification
 
-- `12-07 CCNA(CISCO)
-- `12-10 OCJP(ORACLE)
 - `15-07 CCNP Routing(CISCO)
+- `12-10 OCJP(ORACLE)
+- `12-07 CCNA(CISCO)
 
 ## Reference
 

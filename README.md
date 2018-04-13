@@ -9,7 +9,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 ## Personal
 
 - **Language**
-   - Korean: Native
+   - Korean: native
    - English: no problem in business
    - Japanese: jerk but very fond
 
@@ -24,7 +24,13 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
    - graduated Kwangshin Information Industry High School(characterization)
 
 - **Military service**
-   - Service completed
+   - service completed
+
+- **Hobby**
+   - contribution as open source
+   - translate technique documentation
+   - studying Japanese
+   - walking while thinking what to make
 
 ## Career
 

@@ -83,6 +83,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 ## Reference
 
 - [profile site](https://www.pigno.se)
+- [linked in](https://www.linkedin.com/in/kenneth-ceyer-768419133/)
 - [philosophy](https://www.pigno.se/pignose-principle.html)
 - [recent project](https://www.c-intelligence.com)
 - [github](https://www.github.com/KennethanCeyer)

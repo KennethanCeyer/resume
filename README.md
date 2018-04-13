@@ -1,5 +1,5 @@
 <h1 align="center">SungMin Han</h1>
-<blockquote align="center">Kenneth Ceyer</blockquote>
+<blockquote align="center">Kenneth Ceyer | Full-stack engineer</blockquote>
 <p align="center">+82 1036167981 | <a href="mailto://kennethan@nhpcw.com">kennethan@nhpcw.com</a></p>
 
 ## Summary

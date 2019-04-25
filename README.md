@@ -1,5 +1,5 @@
 <h1 align="center">SungMin Han</h1>
-<blockquote align="center">Kenneth Ceyer | Full-stack engineer</blockquote>
+<blockquote align="center">Kenneth Ceyer | Research Engineer</blockquote>
 <p align="center">+82 1036167981 | <a href="mailto://kenneth@pigno.se">kenneth@pigno.se</a></p>
 
 ## Summary
@@ -20,9 +20,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
    - self motivation
 
 - **Education**
-   - preparing for university transfer this year 
-   - attending Soongsil University 
-   - graduated Kwangshin Information Industry High School(characterization type high school)
+   - [Soongsil University](http://eng.ssu.ac.kr/web/eng) (Enrolled in, 2 years are remained)
 
 - **Military service**
    - service completed
@@ -95,8 +93,15 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 
 - [GDG DevFest](https://www.slideshare.net/KennethCeyer/gdg-devfest-2017-seoul-82177288)
 - [Dataya Nolja](https://www.slideshare.net/KennethCeyer/ss-80764533)
+- [Pycon 2018](https://www.slideshare.net/KennethCeyer/pycon-korea-2018-109833085)
 - [Pycon 2017](https://www.slideshare.net/KennethCeyer/dealing-with-python-reactively-pycon-korea-2017)
 - [XECon 2016](https://www.slideshare.net/KennethCeyer/angularjs-2-version-1-and-reactjs-69546904)
+- [HTML5 Forum](https://www.slideshare.net/KennethCeyer/deep-dive-into-modern-frameworks-html5-forum-2018-124511710)
+
+## Recent Articles
+
+- [Test and Refactoring](https://www.slideshare.net/KennethCeyer/test-and-refactoring-139432204)
+- [다가오는 추상화의 위기 (The Looming Abstraction Crisis) 번역글](https://blog.pigno.se/post/183565621043/%EB%8B%A4%EA%B0%80%EC%98%A4%EB%8A%94-%EC%B6%94%EC%83%81%ED%99%94%EC%9D%98-%EC%9C%84%EA%B8%B0-the-looming-abstraction-crisis-%EB%B2%88%EC%97%AD%EA%B8%80)
 
 ## Additional
 

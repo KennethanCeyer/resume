@@ -49,6 +49,10 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 
 ## Project
 
+### Naver Clova
+
+- Since the project has never been officially released, it is omitted from the description.
+
 ### Campaign Intelligence
 
 - [https://www.c-intelligence.com/main](https://www.c-intelligence.com/main)
@@ -83,7 +87,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 ## Reference
 
 - [profile site](https://www.pigno.se)
-- [linked in](https://www.linkedin.com/in/kenneth-ceyer-768419133/)
+- [linked in](https://www.linkedin.com/in/sungmin-han-768419133/)
 - [philosophy](https://www.pigno.se/pignose-principle.html)
 - [recent project](https://www.c-intelligence.com/main)
 - [github](https://www.github.com/KennethanCeyer)
@@ -91,6 +95,9 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 
 ## Speech
 
+- [GDG Extended Seoul 2019](https://www.slideshare.net/KennethCeyer/allreduce-for-distributed-learning-io-extended-seoul-152862108)
+- [GDG Golang Korea May](https://www.slideshare.net/KennethCeyer/grpc-goroutine-gdg-golang-korea-2019)
+- [HTML5 Forum 2018](https://www.slideshare.net/KennethCeyer/deep-dive-into-modern-frameworks-html5-forum-2018-124511710)
 - [GDG DevFest](https://www.slideshare.net/KennethCeyer/gdg-devfest-2017-seoul-82177288)
 - [Dataya Nolja](https://www.slideshare.net/KennethCeyer/ss-80764533)
 - [Pycon 2018](https://www.slideshare.net/KennethCeyer/pycon-korea-2018-109833085)

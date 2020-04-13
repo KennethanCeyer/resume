@@ -11,7 +11,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 - **Language**
    - Korean: native
    - English: no problem in business
-   - Japanese: jerk but very fond
+   - Japanese: Can express and understand my will at the meeting
 
 - **Attitude**
    - active, aggressive
@@ -20,7 +20,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
    - self motivation
 
 - **Education**
-   - [Soongsil University](http://eng.ssu.ac.kr/web/eng) (Enrolled in, 2 years are remained)
+   - [Soongsil University](http://eng.ssu.ac.kr/web/eng) (Enrolled in, only 1 year remained)
 
 - **Military service**
    - service completed
@@ -95,6 +95,8 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 
 ## Speech
 
+- [GDG DevFest Seoul 2019](https://www.slideshare.net/KennethCeyer/ai-gdg-devfest-seoul-2019-187630418)
+- [DSTS 2019](https://www.slideshare.net/KennethCeyer/dsts-2019)
 - [GDG Extended Seoul 2019](https://www.slideshare.net/KennethCeyer/allreduce-for-distributed-learning-io-extended-seoul-152862108)
 - [GDG Golang Korea May](https://www.slideshare.net/KennethCeyer/grpc-goroutine-gdg-golang-korea-2019)
 - [HTML5 Forum 2018](https://www.slideshare.net/KennethCeyer/deep-dive-into-modern-frameworks-html5-forum-2018-124511710)

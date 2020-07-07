@@ -11,7 +11,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 - **Language**
    - Korean: native
    - English: no problem in business
-   - Japanese: jerk but very fond
+   - Japanese: Can express and understand my will at the meeting
 
 - **Attitude**
    - active, aggressive
@@ -20,7 +20,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
    - self motivation
 
 - **Education**
-   - [Soongsil University](http://eng.ssu.ac.kr/web/eng) (Enrolled in, 2 years are remained)
+   - [Soongsil University](http://eng.ssu.ac.kr/web/eng) (Enrolled in, only 1 year remained)
 
 - **Military service**
    - service completed
@@ -51,7 +51,14 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 
 ### Naver Clova
 
-- Since the project has never been officially released, it is omitted from the description.
+- [Clova AI for Contact Center](https://clova.ai/aicontactcenter)
+- Clova Contact Center AI, which provides the main artificial intelligence technology of NLU, STT, and TTS as a telephone network interface, provided a new user experience through a non-face-to-face interface in a changing society due to 2020 COVID-19.
+
+- Clova Contact Center AI Mainly based on the potential and demands of large markets in Korea and Japan, it continues to grow steadily, and it has great significance because it was able to use AI to melt the value that can be used by real users.
+
+- During the initial deployment phase of this growing project, I performed telephone network server infrastructure and development using telephone network technology, and engineering of DM (conversation manager).
+
+- In addition, in the dialog design of the task-oriented dialog (TOD), an automated pipeline was built to detect the part of the user that could be perceived as a failure during the workflow, and the general CI/CD pipeline configuration and k8s cluster management for serving, We performed various engineering tasks required for various products, such as constructing a stress test environment against excessive telephone traffic.
 
 ### Campaign Intelligence
 
@@ -95,6 +102,8 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 
 ## Speech
 
+- [GDG DevFest Seoul 2019](https://www.slideshare.net/KennethCeyer/ai-gdg-devfest-seoul-2019-187630418)
+- [DSTS 2019](https://www.slideshare.net/KennethCeyer/dsts-2019)
 - [GDG Extended Seoul 2019](https://www.slideshare.net/KennethCeyer/allreduce-for-distributed-learning-io-extended-seoul-152862108)
 - [GDG Golang Korea May](https://www.slideshare.net/KennethCeyer/grpc-goroutine-gdg-golang-korea-2019)
 - [HTML5 Forum 2018](https://www.slideshare.net/KennethCeyer/deep-dive-into-modern-frameworks-html5-forum-2018-124511710)

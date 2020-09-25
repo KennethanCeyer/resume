@@ -4,7 +4,7 @@
 
 ## Summary
 
-He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He has tried to implement the most appropriate development design within the minimum amount of time given to the customer's needs and has ignored the limitations of the technology position to the maximum extent. He has experience in everything from infrastructure building to development to web services, from team building to launching, and is an engineer who considers quality the most important.
+He uses a nickname as "Kenneth" and has a bold engineer career for 5 years. He has tried to implement the most appropriate development design within the minimum amount of time given to the customer's needs and has ignored the limitations of the technology position to the maximum extent. He has experience in everything from infrastructure building to development to web services, from team building to launching, and is an engineer who considers quality the most important.
 
 ## Personal
 

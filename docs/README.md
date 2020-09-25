@@ -120,6 +120,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 5 years. He h
 
 ## Recent Articles
 
+- [D2 Naver - Go와 함께하는 전화망 서비스 구축 1편](https://d2.naver.com/helloworld/5827706)
 - [Test and Refactoring](https://www.slideshare.net/KennethCeyer/test-and-refactoring-139432204)
 - [다가오는 추상화의 위기 (The Looming Abstraction Crisis) 번역글](https://blog.pigno.se/post/183565621043/%EB%8B%A4%EA%B0%80%EC%98%A4%EB%8A%94-%EC%B6%94%EC%83%81%ED%99%94%EC%9D%98-%EC%9C%84%EA%B8%B0-the-looming-abstraction-crisis-%EB%B2%88%EC%97%AD%EA%B8%80)
 

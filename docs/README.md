@@ -20,7 +20,10 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
    - self motivation
 
 - **Education**
-   - [Soongsil University](http://eng.ssu.ac.kr/web/eng) (Enrolled in, only 1 year remained)
+   - [Soongsil University](http://eng.ssu.ac.kr/web/eng) (Enrolled in, 1 year until graduation)
+   
+- **Additional Education**
+   - Taking Deep Learning at KAIST AI graduate school
 
 - **Military service**
    - service completed
@@ -44,7 +47,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 - Back-end knowledge for the enterprise / Testable design / Layered-Architecture / MSA
 - Modern front-end / deep-dive Angular / Passionate ReactJS / Typescript lover
 - A lot of experiences in collaboration / JIRA, Confluence / Redmine / Github with PR review-based process / TDD
-- Many strengths in C# and OOP language design / Javascript, Typescript Scary Good
+- Lots strengths in C# and OOP language design / Javascript, Typescript Scary Good
 - Gopher
 
 ## Project
@@ -102,6 +105,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 3 years. He h
 
 ## Speech
 
+- [Pycon 2020](https://www.slideshare.net/KennethCeyer/in-python-open-source-pycon-korea-2020)
 - [GDG DevFest Seoul 2019](https://www.slideshare.net/KennethCeyer/ai-gdg-devfest-seoul-2019-187630418)
 - [DSTS 2019](https://www.slideshare.net/KennethCeyer/dsts-2019)
 - [GDG Extended Seoul 2019](https://www.slideshare.net/KennethCeyer/allreduce-for-distributed-learning-io-extended-seoul-152862108)

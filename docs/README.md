@@ -11,19 +11,18 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 5 years. He h
 - **Language**
    - Korean: native
    - English: no problem in business
-   - Japanese: Can express and understand my will at the meeting
+   - Japanese: can comment and organize in meetings
 
 - **Attitude**
    - active, aggressive
    - following rationality
-   - excluding emotions
    - self motivation
 
 - **Education**
    - [Soongsil University](http://eng.ssu.ac.kr/web/eng) (Enrolled in, 1 year until graduation)
    
 - **Additional Education**
-   - Taking Deep Learning at KAIST AI graduate school
+   - taking Deep Learning course at KAIST AI graduate school
 
 - **Military service**
    - service completed
@@ -99,7 +98,6 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 5 years. He h
 - [profile site](https://www.pigno.se)
 - [linked in](https://www.linkedin.com/in/sungmin-han-768419133/)
 - [philosophy](https://www.pigno.se/pignose-principle.html)
-- [recent project](https://www.c-intelligence.com/main)
 - [github](https://www.github.com/KennethanCeyer)
 - [blog](https://blog.pigno.se)
 

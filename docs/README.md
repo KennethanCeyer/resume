@@ -19,10 +19,10 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 5 years. He h
    - self motivation
 
 - **Education**
-   - [Soongsil University](http://eng.ssu.ac.kr/web/eng) (Enrolled in, 1 year until graduation)
+   - [Soongsil University / Media, Graphis](http://eng.ssu.ac.kr/web/eng) (Enrolled in, 2021. Aug Graduation expected)
    
 - **Additional Education**
-   - taking Deep Learning course at KAIST AI graduate school
+   - auditing Deep Learning course at KAIST AI graduate school
 
 - **Military service**
    - service completed
@@ -35,9 +35,9 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 5 years. He h
 
 ## Career
 
-- (Current) `18.06 ~ (https://www.navercorp.com) Naver Clova / Research Engineer
-- `15.11 ~ IGAWorks (https://www.igaworks.com) / CI Part Leader
-- `15.02 ~ Jisiklog, Simsimi / New Business Team Leader
+- (Currently serving) from `18. June | (https://www.navercorp.com) Naver Clova / Research Engineer
+- `15. Nov - `18. May | IGAWorks (https://www.igaworks.com) / CI Part Leader
+- `15. Feb - `15. Aug | Jisiklog, Simsimi / New Business Team Leader
 
 ## Technical
 

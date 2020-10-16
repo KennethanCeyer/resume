@@ -35,9 +35,9 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 5 years. He h
 
 ## Career
 
-- (Currently serving) from `18. June | (https://www.navercorp.com) Naver Clova / Research Engineer
-- `15. Nov - `18. May | IGAWorks (https://www.igaworks.com) / CI Part Leader
-- `15. Feb - `15. Aug | Jisiklog, Simsimi / New Business Team Leader
+- `(Currently serving) from 2018. June` | (https://www.navercorp.com) Naver Clova / Research Engineer
+- `2015. Nov - 2018. May` | IGAWorks (https://www.igaworks.com) / CI Part Leader
+- `2015. Feb - 2015. Aug` | Jisiklog, Simsimi / New Business Team Leader
 
 ## Technical
 

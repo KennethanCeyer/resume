@@ -19,7 +19,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 5 years. He h
    - self motivation
 
 - **Education**
-   - [Soongsil University / Media, Graphis](http://eng.ssu.ac.kr/web/eng) (Enrolled in, 2021. Aug Graduation expected)
+   - [Soongsil University / Media or Graphics processing](http://eng.ssu.ac.kr/web/eng) (Enrolled in, 2021. Aug Graduation expected)
    
 - **Additional Education**
    - Deep Learning course completion at KAIST AI graduate school

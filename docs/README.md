@@ -22,7 +22,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 5 years. He h
    - [Soongsil University / Media, Graphis](http://eng.ssu.ac.kr/web/eng) (Enrolled in, 2021. Aug Graduation expected)
    
 - **Additional Education**
-   - auditing Deep Learning course at KAIST AI graduate school
+   - Deep Learning course completion at KAIST AI graduate school
 
 - **Military service**
    - service completed (Korean duty)
@@ -35,7 +35,7 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 5 years. He h
 
 ## Career
 
-- `2020. Jan - (Currently working)` | Riiid (https://www.riiid.co/en/main) / Software Engineer
+- `2020. Jan - (Currently working)` | Riiid (https://www.riiid.co/en/main) / Senior Software Engineer
 - `2018. June - 2020. Dec` | Naver Clova (https://www.navercorp.com) / Research Engineer
 - `2015. Nov - 2018. May` | IGAWorks (https://www.igaworks.com) / Software Engineer
 - `2015. Feb - 2015. Aug` | Jisiklog, Simsimi / Software Engineer
@@ -127,5 +127,6 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 5 years. He h
 
 ## Additional
 
+- [GDG Golang Korea](https://www.facebook.com/gdggo/) Organizer
 - [PIGNOSE writer](https://www.facebook.com/PIGNOSE-1735920843294891/)
 - Writing a book (golang)

@@ -4,14 +4,14 @@
 
 ## Summary
 
-He uses a nickname as "Kenneth" and has a bold engineer career for 5 years. He has tried to implement the most appropriate development design within the minimum amount of time given to the customer's needs and has ignored the limitations of the technology position to the maximum extent. He has experience in everything from infrastructure building to development to web services, from team building to launching, and is an engineer who considers quality the most important.
+He uses a nickname as "Kenneth" and has a bold engineer career for 6 years. He has tried to implement the most appropriate development design within the minimum amount of time given to the customer's needs and has ignored the limitations of the technology position to the maximum extent. He has experience in everything from infrastructure building to development to web services, from team building to launching, and is an engineer who considers quality the most important.
 
 ## Personal
 
 - **Language**
-   - Korean: native
-   - English: no problem in business
-   - Japanese: can comment and organize in meetings
+   - Korean: Native
+   - English: Upper-intermediate
+   - Japanese: Intermediate
 
 - **Attitude**
    - active, aggressive
@@ -96,11 +96,11 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 5 years. He h
 
 ## Reference
 
-- [profile site](https://www.pigno.se)
-- [linked in](https://www.linkedin.com/in/sungmin-han-768419133/)
-- [philosophy](https://www.pigno.se/pignose-principle.html)
-- [github](https://www.github.com/KennethanCeyer)
-- [blog](https://blog.pigno.se)
+- [Personal website](https://www.pigno.se)
+- [Blog](https://blog.pigno.se)
+- [Linkedin](https://www.linkedin.com/in/sungmin-han-768419133/)
+- [GitHub](https://www.github.com/KennethanCeyer)
+- [Philosophy](https://www.pigno.se/pignose-principle.html)
 
 ## Speech
 
@@ -128,5 +128,5 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 5 years. He h
 ## Additional
 
 - [GDG Golang Korea](https://www.facebook.com/gdggo/) Organizer
-- [PIGNOSE writer](https://www.facebook.com/PIGNOSE-1735920843294891/)
+- [PIGNOSE Writer](https://www.facebook.com/PIGNOSE-1735920843294891/)
 - Writing a book (golang)

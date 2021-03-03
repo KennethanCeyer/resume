@@ -52,7 +52,7 @@ He has a bold engineer career for 6 years and He's tried to implement the most a
 
 - Clova Contact Center AI Mainly based on the potential and demands of large markets in Korea and Japan, it continues to grow steadily, and it has great significance because it was able to use AI to melt the value that can be used by real users.
 
-- During the initial deployment phase of this growing project, I performed telephone network server infrastructure and development using telephone network technology, and engineering of DM (conversation manager).
+- I performed telephone network server infrastructure and development using telephone network technology, and engineering of DM (conversation manager).
 
 - In addition, in the dialog design of the task-oriented dialog (TOD), an automated pipeline was built to detect the part of the user that could be perceived as a failure during the workflow, and the general CI/CD pipeline configuration and k8s cluster management for serving, We performed various engineering tasks required for various products, such as constructing a stress test environment against excessive telephone traffic.
 
@@ -84,7 +84,7 @@ He has a bold engineer career for 6 years and He's tried to implement the most a
 ## Certification
 
 - `15-07 CCNP Routing(CISCO)
-- `12-10 OCJP(ORACLE)
+- `12-10 OCJP(Oracle)
 - `12-07 CCNA(CISCO)
 
 ## Speech
@@ -114,7 +114,7 @@ He has a bold engineer career for 6 years and He's tried to implement the most a
 
 - [GDG Golang Korea](https://www.facebook.com/gdggo/) Organizer
 - [PIGNOSE Writer](https://www.facebook.com/PIGNOSE-1735920843294891/)
-- Writing a book (golang)
+- Writing a book of Go language (Scheduled to be published in June of this year, 2021)
 
 ## Reference
 

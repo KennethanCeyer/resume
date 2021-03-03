@@ -16,12 +16,13 @@ He has a bold engineer career for 6 years and He's tried to implement the most a
 ## Technical
 
 - Cloud-based infrastructures technician / AWS EB, Redshift, SQS, Lambda, CloudFront, ElastiCache, EMR
-- Very lover for BigData / AWS Athena, Redshift / Impala / Airpal / Apache Superset / Presto / Plotly
+- Pytorch / MLOps Stack (Kubeflow, HPO, AutoML)
+- Very lover for BigData and Data pipeline / AWS Athena / GCP BigQuery / Redshift / Impala / Presto / Plotly / Airflow
 - Back-end knowledge for the enterprise / Testable design / Layered-Architecture / MSA
 - Modern front-end / deep-dive Angular / Passionate ReactJS / Typescript lover
-- A lot of experiences in collaboration / JIRA, Confluence / Redmine / Github with PR review-based process / TDD
+- A lot of experiences in collaboration / JIRA, Confluence / Notion / Redmine / Github with PR review-based process / TDD
 - Lots strengths in C# and OOP language design / Javascript, Typescript Scary Good
-- Gopher
+- Gopher and Cloud native lover (Kubernetes / istio / Zipkin / gRPC / Terraform)
 
 ## Personal
 

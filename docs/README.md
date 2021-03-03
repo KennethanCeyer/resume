@@ -8,7 +8,7 @@ He has a bold engineer career for 6 years and He's tried to implement the most a
 
 ## Career
 
-- `2020. Jan - (Currently working)` | Riiid (https://www.riiid.co/en/main) / Senior Software Engineer
+- `2021. Jan - (Currently working)` | Riiid (https://www.riiid.co/en/main) / Senior Software Engineer
 - `2018. June - 2020. Dec` | Naver Clova (https://www.navercorp.com) / Research Engineer
 - `2015. Nov - 2018. May` | IGAWorks (https://www.igaworks.com) / Software Engineer
 - `2015. Feb - 2015. Aug` | Jisiklog, Simsimi / Software Engineer

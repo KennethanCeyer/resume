@@ -1,37 +1,10 @@
-<h1 align="center">SungMin Han</h1>
+<h1 align="center">SungMin Han (Kenneth)</h1>
 <blockquote align="center">Kenneth Ceyer | Research Engineer</blockquote>
 <p align="center">+82 1036167981 | <a href="mailto://kenneth@pigno.se">kenneth@pigno.se</a></p>
 
 ## Summary
 
-He uses a nickname as "Kenneth" and has a bold engineer career for 6 years. He has tried to implement the most appropriate development design within the minimum amount of time given to the customer's needs and has ignored the limitations of the technology position to the maximum extent. He has experience in everything from infrastructure building to development to web services, from team building to launching, and is an engineer who considers quality the most important.
-
-## Personal
-
-- **Language**
-   - Korean: Native
-   - English: Upper-intermediate
-   - Japanese: Intermediate
-
-- **Attitude**
-   - active, aggressive
-   - following rationality
-   - self motivation
-
-- **Education**
-   - [Soongsil University / Media or Graphics processing](http://eng.ssu.ac.kr/web/eng) (Enrolled in, 2021. Aug Graduation expected)
-   
-- **Additional Education**
-   - Deep Learning course completion at KAIST AI graduate school
-
-- **Military service**
-   - service completed (Korean duty)
-
-- **Hobby**
-   - contribution as open source
-   - translate technique documentation
-   - studying Japanese
-   - walking while thinking what to make
+He has a bold engineer career for 6 years and He's tried to implement the most appropriate development design within the minimum amount of time given to the customer's needs and has ignored the limitations of the technology position to the maximum extent. He has experience in everything from infrastructure building to development to web services, from team building to launching, and is an engineer who considers quality the most important.
 
 ## Career
 
@@ -49,6 +22,25 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 6 years. He h
 - A lot of experiences in collaboration / JIRA, Confluence / Redmine / Github with PR review-based process / TDD
 - Lots strengths in C# and OOP language design / Javascript, Typescript Scary Good
 - Gopher
+
+## Personal
+
+- **Education**
+   - [Soongsil University / Media or Graphics processing](http://eng.ssu.ac.kr/web/eng) (Enrolled in, 2021. Aug Graduation expected)
+   
+- **Additional Education**
+   - Deep Learning course completion at KAIST AI graduate school
+
+- **Language**
+   - Korean: Native
+   - English: Upper-intermediate
+   - Japanese: Intermediate
+
+- **Hobby**
+   - contribution as open source
+   - translate technique documentation
+   - studying Japanese
+   - walking while thinking what to make
 
 ## Project
 
@@ -94,14 +86,6 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 6 years. He h
 - `12-10 OCJP(ORACLE)
 - `12-07 CCNA(CISCO)
 
-## Reference
-
-- [Personal website](https://www.pigno.se)
-- [Blog](https://blog.pigno.se)
-- [Linkedin](https://www.linkedin.com/in/sungmin-han-768419133/)
-- [GitHub](https://www.github.com/KennethanCeyer)
-- [Philosophy](https://www.pigno.se/pignose-principle.html)
-
 ## Speech
 
 - [Pycon 2020](https://www.slideshare.net/KennethCeyer/in-python-open-source-pycon-korea-2020)
@@ -130,3 +114,11 @@ He uses a nickname as "Kenneth" and has a bold engineer career for 6 years. He h
 - [GDG Golang Korea](https://www.facebook.com/gdggo/) Organizer
 - [PIGNOSE Writer](https://www.facebook.com/PIGNOSE-1735920843294891/)
 - Writing a book (golang)
+
+## Reference
+
+- [Personal website](https://www.pigno.se)
+- [Blog](https://blog.pigno.se)
+- [Linkedin](https://www.linkedin.com/in/sungmin-han-768419133/)
+- [GitHub](https://www.github.com/KennethanCeyer)
+- [Philosophy](https://www.pigno.se/pignose-principle.html)

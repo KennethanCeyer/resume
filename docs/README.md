@@ -11,7 +11,7 @@
 
 ## WORK EXPERIENCE
 
-### MLOps Engineering at Riiid
+### MLOps Engineering at Riiid (As a senior engineer)
 
 - 2 months after joining (Currently serving)
 - The overall structure of the data pipeline and ML pipeline through Kubernetes, Kubeflow, MLflow, and Airflow can be designed and implemented at the production level.
@@ -22,7 +22,7 @@
 - Clustering of bare metal GPUs, resource utilization monitoring through Prometheus.
 - Ongoing collaboration and communication with Riiid Labs engineers in California, US.
 
-### Naver Clova (Worked for model deployment, dialog engine, VoIP engineering)
+### Naver Clova (Worked for model deployment, Dialog engine, VoIP engineering)
 
 - [Clova AI for Contact Center](https://clova.ai/aicontactcenter)
 - Develop and maintain a dialogue engine connecting TTS, STT, and NLU.
@@ -36,7 +36,7 @@
 - Serves as an agile anchor representing the opinions of developers.
 - Leading Japanese engineers and collaborative projects with Japanese engineers.
 
-### Campaign Intelligence
+### Campaign Intelligence (Team building, Leading, High-volume data processing)
 
 - [https://www.c-intelligence.com/main](https://www.c-intelligence.com/main)
 - Participated in major development from initial team building to launching.

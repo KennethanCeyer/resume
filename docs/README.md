@@ -82,7 +82,7 @@
 - **2020.1**  | Digital content award (Soongsil University)
 - **2014.11** | Visual Resume (Job Korea)
 
-## TECHNICA
+## TECHNICAL
 
 - Cloud-based infrastructures technician / AWS EB, Redshift, SQS, Lambda, CloudFront, ElastiCache, EMR
 - Pytorch / MLOps Stack (Kubeflow, HPO, AutoML)

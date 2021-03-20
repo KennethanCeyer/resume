@@ -4,7 +4,7 @@
 
 ## CAREER
 
-- **2021.1 - (Currently working)** | Riiid (https://www.riiid.co/en/main) / Senior Software Engineer
+- **2021.1 - (Currently working)** | Riiid (https://www.riiid.co/en/main) / Senior Engineer
 - **2018.7 - 2020.10** | Naver Clova (https://www.navercorp.com) / Research Engineer
 - **2015.11 - 2018.5** | IGAWorks (https://www.igaworks.com) / Software Engineer
 - **2015.2 - 2015.8**  | Jisiklog, Simsimi / Software Engineer

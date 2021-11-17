@@ -66,7 +66,7 @@
 - Served as Skilled Industry Personnel.
 
 ## EDUCATION
-- [Soongsil University / Media or Graphics processing](http://eng.ssu.ac.kr/web/eng) (Enrolled in, 2021. Aug Graduation expected).
+- [Soongsil University / Bachelor of Media / Graphics Processing](http://eng.ssu.ac.kr/web/eng).
    
 **Additional Education**
    - Deep Learning course completion at KAIST AI graduate school (AI502).
@@ -125,7 +125,8 @@
 ## ADDITIONAL
 
 - [GDG Golang Korea](https://www.facebook.com/gdggo/) Organizer (Google Developer Group)
-- Writing a book of Go language (Scheduled to be published in June of this year, 2021)
+- [Data Korea](https://www.facebook.com/groups/datakr) Organizer
+- Writing a book of Go language (Scheduled to be published in this year, 2021)
 - [PIGNOSE Writer](https://www.facebook.com/PIGNOSE-1735920843294891/)
 
 ## REFERENCE

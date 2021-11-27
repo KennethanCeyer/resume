@@ -66,7 +66,7 @@
 - Served as Skilled Industry Personnel.
 
 ## EDUCATION
-- [Soongsil University / Bachelor of Media / Graphics Processing](http://eng.ssu.ac.kr/web/eng).
+- [Soongsil University / Media B.A. / Graphics Processing](http://eng.ssu.ac.kr/web/eng).
    
 **Additional Education**
    - Deep Learning course completion at KAIST AI graduate school (AI502).

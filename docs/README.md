@@ -13,14 +13,12 @@
 
 ### MLOps Engineering at Riiid (As a senior engineer)
 
-- 2 months after joining (Currently serving)
 - The overall structure of the data pipeline and ML pipeline through Kubernetes, Kubeflow, MLflow, and Airflow can be designed and implemented at the production level.
+- Integrated collection and management of CDC(Change Data Capture) in data lake.
+- Data processing using Databricks Spark cluster and DW management through DeltaLake.
+- Organizing data security and policy manuals and reviewing governance issues for new systems.
 - Configuring the model to automate the testing and deployment process.
-- Integrated collection and management of CDC in data lake.
-- Infrastructure configuration to avoid human error through Terraform.
-- AutoML operation based on Kubeflow and efficiency of GPU resources.
-- Clustering of bare metal GPUs, resource utilization monitoring through Prometheus.
-- Ongoing collaboration and communication with Riiid Labs engineers in California, US.
+- Ongoing collaboration and communication with engineers in California, US.
 
 ### Naver Clova (Worked for model deployment, Dialog engine, VoIP engineering)
 

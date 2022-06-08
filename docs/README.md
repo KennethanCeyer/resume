@@ -82,14 +82,11 @@
 
 ## TECHNICAL
 
-- Cloud-based infrastructures technician / AWS EB, Redshift, SQS, Lambda, CloudFront, ElastiCache, EMR
-- Pytorch / MLOps Stack (Kubeflow, HPO, AutoML)
-- Very lover for BigData and Data pipeline / AWS Athena / GCP BigQuery / Redshift / Impala / Presto / Plotly / Airflow
-- Back-end knowledge for the enterprise / Testable design / Layered-Architecture / MSA
-- Modern front-end / deep-dive Angular / Passionate ReactJS / Typescript lover
-- A lot of experiences in collaboration / JIRA, Confluence / Notion / Redmine / Github with PR review-based process / TDD
-- Lots strengths in C# and OOP language design / Javascript, Typescript Scary Good
-- Gopher and Cloud native lover (Kubernetes / istio / Zipkin / gRPC / Terraform)
+- **DATA**: Databricks / GCP BigQuery / AWS Athena / AWS Redshift / Impala / Presto / Airflow
+- **CLOUD**: AWS(Most computing, messaging, and data stacks), GCP(BigQuery, GCS)
+- **BACKEND**: Strong at C# Golang, Python, Javascript, w/ Layered architecture
+- **FRONTEND**: Familiar w/ React + Typescript + Styled Component (Functional component style)
+- **HIGHLIGHT**: Strong against code that complies with Testing and Clean Code.
 
 ## LANGUAGE
 
@@ -99,6 +96,9 @@
 
 ## SPEECH
 
+- [DEVIEW 2021](https://deview.kr/2021/sessions/493)
+- [Dataya Nolja 2021](https://event-us.kr/datayanolja2020/event/37854)
+- [Pycon 2021](https://2021.pycon.kr/session/33/)
 - [Pycon 2020](https://www.slideshare.net/KennethCeyer/in-python-open-source-pycon-korea-2020)
 - [GDG DevFest Seoul 2019](https://www.slideshare.net/KennethCeyer/ai-gdg-devfest-seoul-2019-187630418)
 - [DSTS 2019](https://www.slideshare.net/KennethCeyer/dsts-2019)
@@ -106,7 +106,7 @@
 - [GDG Golang Korea May](https://www.slideshare.net/KennethCeyer/grpc-goroutine-gdg-golang-korea-2019)
 - [HTML5 Forum 2018](https://www.slideshare.net/KennethCeyer/deep-dive-into-modern-frameworks-html5-forum-2018-124511710)
 - [GDG DevFest](https://www.slideshare.net/KennethCeyer/gdg-devfest-2017-seoul-82177288)
-- [Dataya Nolja](https://www.slideshare.net/KennethCeyer/ss-80764533)
+- [Dataya Nolja 2017](https://www.slideshare.net/KennethCeyer/ss-80764533)
 - [Pycon 2018](https://www.slideshare.net/KennethCeyer/pycon-korea-2018-109833085)
 - [Pycon 2017](https://www.slideshare.net/KennethCeyer/dealing-with-python-reactively-pycon-korea-2017)
 - [XECon 2016](https://www.slideshare.net/KennethCeyer/angularjs-2-version-1-and-reactjs-69546904)

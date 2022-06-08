@@ -4,14 +4,14 @@
 
 ## CAREER
 
-- **2021.1 - (Currently working)** | Riiid (https://www.riiid.co/en/main) / Senior Engineer
+- **2021.1 - (Currently working)** | Riiid (https://www.riiid.co/en/main) / Sr. Data Engineer
 - **2018.7 - 2020.10** | Naver Clova (https://www.navercorp.com) / Research Engineer
 - **2015.11 - 2018.5** | IGAWorks (https://www.igaworks.com) / Software Engineer
 - **2015.2 - 2015.8**  | Jisiklog, Simsimi / Software Engineer
 
 ## WORK EXPERIENCE
 
-### MLOps Engineering at Riiid (As a senior engineer)
+### Data Engineering at Riiid
 
 - The overall structure of the data pipeline and ML pipeline through Kubernetes, Kubeflow, MLflow, and Airflow can be designed and implemented at the production level.
 - Integrated collection and management of CDC(Change Data Capture) in data lake.

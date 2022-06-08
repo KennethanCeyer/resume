@@ -124,8 +124,8 @@
 
 - [GDG Golang Korea](https://www.facebook.com/gdggo/) Organizer (Google Developer Group)
 - [Data Korea](https://www.facebook.com/groups/datakr) Organizer
-- Writing a book of Go language (Scheduled to be published in this year, 2021)
 - [PIGNOSE Writer](https://www.facebook.com/PIGNOSE-1735920843294891/)
+- Currently, Writing a book of Go language
 
 ## REFERENCE
 

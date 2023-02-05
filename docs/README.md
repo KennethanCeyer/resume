@@ -1,5 +1,5 @@
-<h1 align="center">SungMin Han (Mason)</h1>
-<blockquote align="center">Kenneth Ceyer | Research Engineer | GDG Golang Korea Organizer</blockquote>
+<h1 align="center">SungMin Han</h1>
+<blockquote align="center">Kenneth Han | MLOps Lead | GDE for ML | GDG Golang Korea Organizer</blockquote>
 <p align="center">+82 1036167981 | <a href="mailto://kenneth@pigno.se">kenneth@pigno.se</a></p>
 
 ## CAREER
